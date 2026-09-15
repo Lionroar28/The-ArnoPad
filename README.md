@@ -19,9 +19,12 @@ An embossing of the word ArnoPad on the side to show what it is<img
 I made it in Fusion360
                                                                  
 The PCB:
-Here is the PCB I made, I made it in KiCad and unfortunatly I accedently deleted the schematics so I can only show the PCB
+Here is the PCB I made, I made it in KiCad.
 
 PCB<img width="870" height="721" alt="arnopad jpeg" src="https://github.com/user-attachments/assets/e6d27341-3713-478a-a097-cee6c5f4ad0f" />
+
+Schematic<img width="657" height="487" alt="image" src="https://github.com/user-attachments/assets/05f6b4f8-c626-409c-bc7d-a310958eaf70" />
+
 
 Firmware:
 I have not made the firmware yet
