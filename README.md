@@ -26,17 +26,17 @@ PCB<img width="870" height="721" alt="arnopad jpeg" src="https://github.com/user
 Schematic<img width="657" height="487" alt="image" src="https://github.com/user-attachments/assets/05f6b4f8-c626-409c-bc7d-a310958eaf70" />
 
 BOM:
-6x Cherry mx switches
-6x keycaps
-4x screws
-4x bolts
-6x diodes
-6x LED's
-1x OLED display
-1x rotary dial
-1x XIAO controller
-1x 3d printed case
-1x custom ArnoPad PCB
+<p>6x Cherry mx switches</p>
+<p>6x keycaps</p>
+<p>4x screws</p>
+<p>4x bolts</p>
+<p>6x diodes</p>
+<p>6x LED's</p>>
+<p>1x OLED display</p>
+<p>1x rotary dial</p>
+<p>1x XIAO controller</p>
+<p>1x 3d printed case</p>
+<p>1x custom ArnoPad PCB</p>
 
 Firmware:
 I have not made the firmware yet
