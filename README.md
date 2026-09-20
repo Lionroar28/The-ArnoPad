@@ -31,7 +31,7 @@ BOM:
 <p>4x screws</p>
 <p>4x bolts</p>
 <p>6x diodes</p>
-<p>6x LED's</p>>
+<p>6x LED's</p>
 <p>1x OLED display</p>
 <p>1x rotary dial</p>
 <p>1x XIAO controller</p>
