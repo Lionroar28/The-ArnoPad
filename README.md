@@ -21,11 +21,9 @@ I made it in Fusion360
 The PCB:
 Here is the PCB I made, I made it in KiCad.
 
-PCB
-<img width="870" height="721" alt="arnopad jpeg" src="https://github.com/user-attachments/assets/e6d27341-3713-478a-a097-cee6c5f4ad0f" />
+PCB<img width="870" height="721" alt="arnopad jpeg" src="https://github.com/user-attachments/assets/e6d27341-3713-478a-a097-cee6c5f4ad0f" />
 
-Schematic
-<img width="657" height="487" alt="image" src="https://github.com/user-attachments/assets/05f6b4f8-c626-409c-bc7d-a310958eaf70" />
+Schematic<img width="657" height="487" alt="image" src="https://github.com/user-attachments/assets/05f6b4f8-c626-409c-bc7d-a310958eaf70" />
 
 BOM:
 6x Cherry mx switches
