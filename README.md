@@ -1,6 +1,6 @@
 # The-ArnoPad
 
-The ArnoPad has six switches, one rotary dial, one screen and six leds behind the switches to attempt backlighting. 
+It is a hackpad that can change the volume(rotary dial), has 6 buttons that can do whatever you want it to, a screen for your favourite gifs and leds for nessacery lighting
 
 The features of the Arno pad are:
 <p>A cool case that has a window to show spiderman and orpheus</p>
@@ -42,3 +42,4 @@ Firmware:
 I have not made the firmware yet
 
 
+(made for stardance)
