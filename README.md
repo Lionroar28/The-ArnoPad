@@ -49,7 +49,4 @@ BOM:
 <p>(Basicly the hackpad kit)</p>
 
 Firmware:
-I have not made the firmware yet
-
-
-(made for stardance)
+I have not made the firmware yet because I would rather do it when I have the Arnopad assembled cuz thats easier for me
